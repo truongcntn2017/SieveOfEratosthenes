@@ -250,3 +250,5 @@ However, this algorithm also has its own weaknesses.
 * [Codeforces - Nodbach Problem](https://codeforces.com/problemset/problem/17/A)
 * [Codefoces - Colliders](https://codeforces.com/problemset/problem/154/B)
 
+# Reference
+[Sieve of eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)

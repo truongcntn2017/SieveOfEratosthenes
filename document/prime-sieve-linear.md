@@ -88,3 +88,4 @@ Knowing the factorizations of all numbers is very useful for some tasks, and thi
 
 - David Gries, Jayadev Misra. **A Linear Sieve Algorithm for Finding Prime Numbers** [1978]
 
+[Prime sieve linear](https://cp-algorithms.com/algebra/prime-sieve-linear.html)
